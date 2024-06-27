@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Регистрация и Вход</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="form-container" id="login-form">
+            <h2>Вход</h2>
+            <form id="loginForm">
+                <label for="login-email">ID:</label>
+                <input type="email" id="login-email" name="email" required>
+                <label for="login-password">Пароль:</label>
+                <input type="password" id="login-password" name="password" required>
+                <button type="button" id="login-button">Войти</button>
+            </form>
+        </div>
+        
+        <div class="form-container" id="register-form">
+            <h2>Регистрация</h2>
+            <form id="registerForm">
+                <label for="register-email">ID:</label>
+                <input type="email" id="register-email" name="email" required>
+                <label for="register-password">Пароль:</label>
+                <input type="password" id="register-password" name="password" required>
+                <label for="register-confirm-password">Подтвердите Пароль:</label>
+                <input type="password" id="register-confirm-password" name="confirm-password" required>
+                <label for="full-name">ФИО:</label>
+                <input type="text" id="full-name" name="full-name" required>
+                <label for="position">Должность:</label>
+                <input type="text" id="position" name="position" required>
+                <label for="birth-date">Дата рождения:</label>
+                <input type="date" id="birth-date" name="birth-date" required>
+                <div id="role-selection">
+                    <label for="role">Роль:</label>
+                    <select id="role" name="role">
+                        <option value="manager">Менеджер</option>
+                        <option value="worker">Работник</option>
+                    </select>
+                </div>
+                <button type="button" id="register-button">Регистрация</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
