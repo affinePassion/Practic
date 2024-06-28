@@ -14,8 +14,6 @@
 
 ![Screenshot of form for worker](https://github.com/affinePassion/Practic/blob/main/image.png)
 
-![Screenshot of form tasts for worker](https://github.com/affinePassion/Practic/blob/b8bfce4af2a1265673c7a3cef66d3388844577a7/image.png)
-
 для менеджеров: просмотр объектов, проверка всех рабочих(без их КПД), метариалов на складе, поставок.
   
     ТЕСТОВЫЕ ДАННЫЕ К ПРИЛОЖЕНИЮ:
