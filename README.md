@@ -11,13 +11,14 @@
 В результате реализовано:
   
 для рабочих: доступ к выполнению задач на объектах, изменение статуса их выполнения(без фотоотчета). 
-Не могу загрузить скрины всех страниц. 
+![worker](https://github.com/affinePassion/Practic/assets/132219786/715dce63-ca1d-4910-8e7f-4817a7ebfcd7)
 
-Цель приложения на скрине:
 ![Screenshot of form for worker](https://github.com/affinePassion/Practic/blob/main/image.png)
 
 для менеджеров: просмотр объектов, проверка всех рабочих(без их КПД), метариалов на складе, поставок.
-  
+![manager](https://github.com/affinePassion/Practic/assets/132219786/2c2fb279-c2e4-4dc6-99b6-0efb060b8dab)
+
+![enter](https://github.com/affinePassion/Practic/assets/132219786/a714e0bc-b74a-4b23-a91e-3028dfb98544)
     ТЕСТОВЫЕ ДАННЫЕ К ПРИЛОЖЕНИЮ:
     ВХОД:
     worker - ID = 69, password = roomix,
