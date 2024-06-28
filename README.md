@@ -19,6 +19,8 @@
 ![manager](https://github.com/affinePassion/Practic/assets/132219786/2c2fb279-c2e4-4dc6-99b6-0efb060b8dab)
 
 ![enter](https://github.com/affinePassion/Practic/assets/132219786/a714e0bc-b74a-4b23-a91e-3028dfb98544)
+    
+    
     ТЕСТОВЫЕ ДАННЫЕ К ПРИЛОЖЕНИЮ:
     ВХОД:
     worker - ID = 69, password = roomix,
